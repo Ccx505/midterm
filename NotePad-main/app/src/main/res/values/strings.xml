@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="live_folder_name">Notes</string>
+
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_create">New note</string>
+    <string name="title_edit">Edit: %1$s</string>
+    <string name="title_notes_list">Notes</string>
+
+    <!-- 主菜单项 -->
+    <string name="menu_add">New note</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_paste">Paste</string>
+
+    <!-- 新增搜索相关菜单项 -->
+    <string name="menu_search">Search</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_more">More</string>
+
+    <!-- 排序选项 -->
+    <string name="menu_sort_time">Sort by time</string>
+    <string name="menu_sort_title">Sort by title</string>
+
+    <!-- 筛选选项 -->
+    <string name="menu_filter_favorites">Favorites only</string>
+    <string name="menu_filter_recent">Recently modified</string>
+
+    <!-- 导入导出选项 -->
+    <string name="menu_import">Import</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_backup">Backup</string>
+
+    <string name="button_ok">OK</string>
+    <string name="text_title">Title:</string>
+
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">Edit title</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">Error loading note</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+
+    <!-- 新增搜索相关字符串 -->
+    <string name="search_hint">Search note titles or content...</string>
+    <string name="search_no_results">No notes found</string>
+    <string name="search_results">Search results: %d notes found</string>
+
+    <!-- 时间戳相关字符串 -->
+    <string name="timestamp_unknown">Unknown time</string>
+    <string name="timestamp_invalid">Invalid time format</string>
+    <string name="last_modified">Last modified: %s</string>
+    <string name="created_on">Created on: %s</string>
+
+    <!-- 上下文菜单项 -->
+    <string name="context_share">Share</string>
+    <string name="context_favorite">Add to favorites</string>
+    <string name="context_export">Export note</string>
+
+    <!-- 确认对话框 -->
+    <string name="confirm_delete">Delete this note?</string>
+    <string name="confirm_delete_multiple">Delete %d notes?</string>
+    <string name="confirm_exit">Save changes before exiting?</string>
+
+    <!-- 操作反馈 -->
+    <string name="msg_note_saved">Note saved</string>
+    <string name="msg_note_deleted">Note deleted</string>
+    <string name="msg_notes_imported">%d notes imported successfully</string>
+    <string name="msg_backup_created">Backup created successfully</string>
+
+    <!-- 空状态提示 -->
+    <string name="empty_notes_list">No notes yet\nTap the + button to create your first note</string>
+    <string name="empty_search_results">No notes match your search</string>
+
+    <!-- 设置相关 -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_auto_save">Auto save</string>
+    <string name="settings_backup_enabled">Enable automatic backup</string>
+    <string name="settings_font_size">Font size</string>
+    <string name="settings_theme">Theme</string>
+
+    <!-- 日期时间格式 -->
+    <string name="date_format_today">Today, HH:mm</string>
+    <string name="date_format_yesterday">Yesterday, HH:mm</string>
+    <string name="date_format_this_year">MMM dd, HH:mm</string>
+    <string name="date_format_full">yyyy-MM-dd HH:mm</string>
+
+</resources>

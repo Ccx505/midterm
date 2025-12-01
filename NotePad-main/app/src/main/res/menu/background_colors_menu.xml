@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!-- 白色背景 -->
+        <item
+            android:id="@+id/color_white"
+            android:title="白色背景" />
+
+        <!-- 蓝色背景 -->
+        <item
+            android:id="@+id/color_blue"
+            android:title="蓝色背景" />
+
+        <!-- 绿色背景 -->
+        <item
+            android:id="@+id/color_green"
+            android:title="绿色背景" />
+
+        <!-- 黄色背景 -->
+        <item
+            android:id="@+id/color_yellow"
+            android:title="黄色背景" />
+
+        <!-- 粉色背景 -->
+        <item
+            android:id="@+id/color_pink"
+            android:title="粉色背景" />
+
+        <!-- 灰色背景 -->
+        <item
+            android:id="@+id/color_gray"
+            android:title="灰色背景" />
+    </group>
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 新建笔记 -->
+    <item
+        android:id="@+id/menu_add"
+        android:title="New note"
+        android:icon="@android:drawable/ic_input_add" />
+
+    <!-- 搜索 -->
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search"
+        android:icon="@android:drawable/ic_search_category_default" />
+
+    <!-- 粘贴 -->
+    <item
+        android:id="@+id/menu_paste"
+        android:title="Paste" />
+
+</menu>
