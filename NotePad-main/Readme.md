@@ -45,7 +45,7 @@
 </menu>
 界面截图：
 
-(https://github.com/Ccx505/midterm/blob/master/NotePad-main/屏幕截图 2025-12-06 165104.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165104.png)
 
 2.新建笔记功能
 功能描述：​ 点击菜单中的"New note"按钮创建新笔记，进入编辑界面。
@@ -582,5 +582,6 @@ NotePad/
 │       └── strings.xml              # 字符串资源
 └── AndroidManifest.xml              # 应用清单文件
 ```
+
 
 
