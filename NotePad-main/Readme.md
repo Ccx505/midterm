@@ -87,7 +87,7 @@
     }
 界面截图：
 
-![屏幕截图 2025-12-06 165135](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165135.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165135.png)
 
 3.编辑笔记功能
 功能描述：​ 点击笔记条目进入编辑界面，可以修改笔记内容。
@@ -145,7 +145,8 @@
 
 界面截图：
 
-![屏幕截图 2025-12-06 165300](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165300.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165300.png)
+
 二.拓展基本功能
 （一）.笔记条目增加时间戳显示
 1.功能要求
@@ -260,11 +261,11 @@
 
 界面截图：
 
-![屏幕截图 2025-12-06 165104](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165104.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165104.png)
 
 修改笔记后时间戳也会改变，时间戳显示最近一次修改的时间
 
-![屏幕截图 2025-12-06 165636](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165636.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165636.png)
 
 （二）.增强的搜索功能
 1.功能要求
@@ -348,11 +349,11 @@
 
 界面截图：
 
-![屏幕截图 2025-12-06 165123](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165123.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165123.png)
 
 选择搜索后弹出搜索框，输入想要搜索的的内容或者标题，会显示搜索结果
 
-![屏幕截图 2025-12-06 165711](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165711.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165711.png)
 
 三.拓展附加功能
 （一）.按时间排序
@@ -403,11 +404,11 @@ Cursor c = qb.query(db, projection, selection, selectionArgs, null, null, orderB
 
 界面截图：
 
-![屏幕截图 2025-12-06 165104](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165104.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165104.png)
 
 修改笔记后，时间戳会改变，顺序也会改变
 
-![屏幕截图 2025-12-06 165636](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165636.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165636.png)
 
 （二）.UI美化
 1.功能要求
@@ -498,9 +499,9 @@ Cursor c = qb.query(db, projection, selection, selectionArgs, null, null, orderB
 
 新建笔记的时候可以点击右上角落的，弹出颜色选择的选项，点击背景颜色的选项就可以选择颜色
 
-![屏幕截图 2025-12-06 165823](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165823.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165823.png)
 
-![屏幕截图 2025-12-06 165830](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165830.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165830.png)
 
 
 
@@ -508,7 +509,7 @@ Cursor c = qb.query(db, projection, selection, selectionArgs, null, null, orderB
 
 进入笔记编辑页面也可以更改已存在的笔记的颜色
 
-![屏幕截图 2025-12-06 165842](C:\Users\Len\Pictures\Screenshots\屏幕截图 2025-12-06 165842.png)
+(https://github.com/Ccx505/midterm/blob/master/NotePad-main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-12-06%20165842.png)
 
 四.技术架构详解
 1.内容提供器设计
@@ -582,6 +583,7 @@ NotePad/
 │       └── strings.xml              # 字符串资源
 └── AndroidManifest.xml              # 应用清单文件
 ```
+
 
 
 
